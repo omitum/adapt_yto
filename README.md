@@ -16,4 +16,17 @@ Let K be the number of object proposals generated on the image. We represent eac
 
 ![model architecture](./net.png)
 
+### Citation
+
+If you find this project useful for your work, please consider cite the paper.
+```
+@article{BMVC2017Adapt,
+  author = {Omit Chanda, Eu Wern Teh, Mrigank Rochan, Zhenyu Guo and Yang Wang},
+  title = {Adapting Object Detectors from Images to Weakly Labeled Videos},
+  journal = {The 28th British Machine Vision Conference (BMVC), 2017},
+  year = {2017}
+}
+```
+
+
 
