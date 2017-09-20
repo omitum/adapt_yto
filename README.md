@@ -28,5 +28,10 @@ If you find this project useful for your work, please consider cite the paper.
 }
 ```
 
+### Others
+
+1. This code is initially based on @soumith's [code](https://github.com/soumith/imagenet-multiGPU.torch) but most of the things are modified.
+2. For more information please refer to the [paper](http://www.cs.umanitoba.ca/~ywang/papers/bmvc17_adapt.pdf).
+
 
 
