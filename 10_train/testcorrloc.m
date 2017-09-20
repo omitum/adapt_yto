@@ -1,0 +1,2 @@
+addpath('../')
+test_corrloc()
