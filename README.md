@@ -10,6 +10,7 @@ Let K be the number of object proposals generated on the image. We represent eac
 1. Get into each folder named as class name [i.e. 01_aeroplane].
 2. Keep the .t7 file of the dataset with data, ground truth bounding box, class label and proposals.
 3. Run doall.lua file using th command [i.e. th ../doall.lua].
+4. After training, run evaluate.sh file for getting the corloc for each class.
 
 ### Model Architecture
 
