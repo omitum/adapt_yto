@@ -10,6 +10,6 @@ Let K be the number of object proposals generated on the image. We represent eac
 
 ### Model Architecture
 
-![model architecture](./data/architecture.png)
+![model architecture](./net.pdf)
 
 
