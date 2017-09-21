@@ -1,6 +1,6 @@
 # Adapting Object Detectors 
 
-Implementation of the paper [Adapting Object Detectors from Images toWeakly Labeled Videos](http://www.cs.umanitoba.ca/~ywang/papers/bmvc17_adapt.pdf). 
+Implementation of the paper [Adapting Object Detectors from Images to Weakly Labeled Videos](http://www.cs.umanitoba.ca/~ywang/papers/bmvc17_adapt.pdf). 
 
 ### Usage
 The first step of our approach is to generate a shortlist of object proposals from source and target images. We use the edge boxes algorithm for generating the object proposals. 
