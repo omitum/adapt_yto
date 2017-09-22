@@ -3,7 +3,7 @@ config = {}
 
 local cmd = torch.CmdLine()
 cmd:text()
-cmd:text('Fast R-CNN for Torch')
+cmd:text('Detectors')
 cmd:text()
 cmd:text('')
 	-- Parameters
